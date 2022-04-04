@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://twitter.com/raghavkumar09" target="blank"><img src="https://img.shields.io/twitter/follow/raghavkumar09?logo=twitter&style=for-the-badge" alt="raghavkumar09" /></a> </p>
-<p align="left"> <a href="https://twitter.com/raghavkumar09" target="blank"><img ?logo=Gmail&style=for-the-badge" alt="jharaghav330@gmail.com" /></a> </p>
+
 - 🔭 I’m currently working on [Web Development](https://github.com/raghavkumar09/My-portfolio)
 
 - 🌱 I’m currently learning **Javascript and Python**
