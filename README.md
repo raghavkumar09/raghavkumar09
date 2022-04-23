@@ -3,7 +3,11 @@ Hi 👋, I'm Raghav Kumar
 
 ### A passionate frontend developer from India
 
-- 🔭 I’m currently working on [Web Development](https://github.com/raghavkumar09/My-portfolio) - 🌱 I’m currently learning **Javascript and Python** - 👯 I’m looking to collaborate on [location-finder-futuretalent](https://github.com/raghavkumar09/location-finder-futuretalent) - 👨‍💻 All of my projects are available at [https://github.com/raghavkumar09/My-portfolio](https://github.com/raghavkumar09/My-portfolio) - ⚡ Fun fact **I think I am Funny**
+- 🔭 I’m currently working on [Web Development](https://github.com/raghavkumar09/My-portfolio) 
+- 🌱 I’m currently learning **Javascript and Python** 
+- 👯 I’m looking to collaborate on [location-finder-futuretalent](https://github.com/raghavkumar09/location-finder-futuretalent) 
+- 👨‍💻 All of my projects are available at [https://github.com/raghavkumar09/Portfolio](https://github.com/raghavkumar09/My-portfolio) 
+- ⚡ Fun fact **I think I am Funny**
 
 ### Connect with me:
 
