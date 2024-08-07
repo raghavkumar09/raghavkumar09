@@ -3,11 +3,12 @@ Hi 👋, I'm Raghav Kumar
 
 ### A passionate frontend developer from India
 
-- 🔭 I’m currently working on [Web Development](https://github.com/raghavkumar09/My-portfolio) 
-- 🌱 I’m currently learning **Javascript and Python** 
+- 🔭 I’m working as a Software Engineer at Bridgeness Technologies Private Limited.
+- 🔭 I’m currently working on [Backend Developer](https://github.com/raghavkumar09/backend-project) 
+- 🌱 I’m currently learning [**Deno**](https://deno.com/)
 - 👯 I’m looking to collaborate on [location-finder-futuretalent](https://github.com/raghavkumar09/location-finder-futuretalent) 
-- 👨‍💻 All of my projects are available at [https://github.com/raghavkumar09/Portfolio](https://github.com/raghavkumar09/My-portfolio) 
-- ⚡ Fun fact **I think I am Funny**
+- 👨‍💻 All of my projects are available at [https://raghavkumar09.github.io/myportfolio](https://raghavkumar09.github.io/myportfolio) 
+- ⚡ I'm continuously learning new technologies
  
  ## Connect With me🔗
 [![Twitter Follow](https://img.shields.io/twitter/follow/raghavkumar09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBendikMatej&screen_name=raghavkumar09) [<img alt="GitHub" src="https://img.shields.io/github/followers/raghavkumar09?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/raghavkumar09/)
