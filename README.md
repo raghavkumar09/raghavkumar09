@@ -1,9 +1,9 @@
 Hi 👋, I'm Raghav Kumar
 =======================
 
-### A passionate frontend developer from India
+### A passionate Backend developer from India
 
-- 🔭 I’m working as a Software Engineer at Bridgeness Technologies Private Limited.
+- 🔭 I’m a Software Engineer at Bridgeness Technologies Private Limited.
 - 🔭 I’m currently working on [Backend Developer](https://github.com/raghavkumar09/backend-project) 
 - 🌱 I’m currently learning [**Deno**](https://deno.com/)
 - 👯 I’m looking to collaborate on [location-finder-futuretalent](https://github.com/raghavkumar09/location-finder-futuretalent) 
